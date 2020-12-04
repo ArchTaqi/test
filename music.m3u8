@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PRgvj4c.png",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",Dijlah Tarab
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/BT6jnfv.jpg",Leeeko TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/96FfLIj.jpg",Lèeekô TV
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
